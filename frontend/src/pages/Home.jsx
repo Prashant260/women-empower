@@ -20,7 +20,7 @@ const Home = () => {
               Know Your <span className="text-rose-600">Legal Rights</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-              Empowering women through comprehensive knowledge of Indian Constitution and criminal laws. 
+                     RAKSHA (rights-awareness-knowledge-safety-hope-action) 
               Understanding your rights is the first step towards justice and equality.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
