@@ -14,7 +14,7 @@ export const Header = () => {
           <Link to="/" className="flex items-center space-x-2">
             <Scale className="h-8 w-8 text-rose-600" />
             <span className="text-xl font-bold text-gray-900">
-              Women's Legal <span className="text-rose-600">Awareness</span>
+              RAK-<span className="text-rose-600">SHA</span>
             </span>
           </Link>
 
