@@ -20,9 +20,8 @@ const Home = () => {
               Know Your <span className="text-rose-600">Legal Rights</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-                     RAKSHA (rights-awareness-knowledge-safety-hope-action).
-                     
-              Understanding your rights is the first step towards justice and equality.
+              RAKSHA (rights-awareness-knowledge-safety-hope-action)
+              <br /> Understanding your rights is the first step towards justice and equality.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button asChild size="lg" className="bg-rose-600 hover:bg-rose-700 text-lg px-8 py-6">
